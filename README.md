@@ -1,4 +1,4 @@
-# Mental_Health_Tech_Survey
+# Mental_Health_Tech_Survey_Analysis
 
 This project presents an Exploratory Data Analysis (EDA) of a mental health survey conducted among tech professionals. The objective is to identify trends, understand how workplace culture affects mental health, and uncover key insights that can help promote healthier and more inclusive work environments.
 
